@@ -1,2 +1,2 @@
 # Szkola_programowania
- It's projetct from #CodersLab.
+ It's projetct from CodersLab.
